@@ -1,0 +1,25 @@
+﻿Fecha,Producto,Categoría,PrecioUnitario,Cantidad,TotalVenta,Región,Vendedor,Canal
+2024-01-15,Laptop Pro 15,Computadoras,1500,2,2990.5,Norte,María,Online
+2024-01-16,Smartphone X,Celulares,950,1,932.4,Centro,Lucas,Tienda Física
+2024-01-18,Tablet Pro 12,Tablets,890,3,2725.8,Sur,Sofía,Online
+2024-02-01,Smartwatch Fit,Wearables,250,4,1020.2,Oeste,Martín,Online
+2024-02-14,Mouse Gamer GX,Periféricos,80,5,392.3,Centro,Julieta,Tienda Física
+2024-03-04,Parlante Boom,Audio,320,2,647.9,Este,Tomás,Online
+2024-03-16,Laptop Air 13,Computadoras,1200,1,1175.6,Sur,Lucía,Online
+2024-03-22,Smartwatch Ultra,Wearables,450,2,900.9,Oeste,Andrés,Tienda Física
+2024-04-10,Teclado Mecánico KZ,Periféricos,110,3,334.2,Norte,María,Online
+2024-04-22,Smartphone Z,Celulares,750,4,3030.7,Centro,Lucas,Online
+2024-05-08,Tablet Mini 8,Tablets,590,2,1179.8,Este,Sofía,Tienda Física
+2024-05-20,Smartwatch Fit,Wearables,250,5,1235.4,Sur,Martín,Online
+2024-06-03,Laptop Pro 15,Computadoras,1500,1,1475.8,Oeste,Julieta,Online
+2024-06-15,Auriculares X,Audio,180,3,548.9,Centro,Tomás,Tienda Física
+2024-07-01,Smartphone X,Celulares,950,2,1865.7,Sur,Lucía,Online
+2024-07-20,Tablet Pro 12,Tablets,890,1,875.2,Norte,Andrés,Online
+2024-08-03,Smartwatch Ultra,Wearables,450,4,1810.3,Centro,María,Tienda Física
+2024-08-15,Mouse Gamer GX,Periféricos,80,2,160.8,Este,Lucas,Online
+2024-09-10,Parlante Boom,Audio,320,5,1608.4,Sur,Sofía,Tienda Física
+2024-09-25,Smartphone Z,Celulares,750,3,2271.6,Oeste,Martín,Online
+2024-10-08,Teclado Mecánico KZ,Periféricos,110,4,440.5,Centro,Julieta,Online
+2024-10-22,Laptop Air 13,Computadoras,1200,2,2394.2,Sur,Tomás,Tienda Física
+2024-11-05,Tablet Mini 8,Tablets,590,5,2972.6,Este,Lucía,Online
+2024-11-18,Smartwatch Fit,Wearables,250,3,748.3,Centro,Andrés,Online
